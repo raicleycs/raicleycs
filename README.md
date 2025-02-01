@@ -10,7 +10,6 @@
 
 <picture>
   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
     srcset="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dracula)"
   />
@@ -18,5 +17,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=dracula" />
 </picture>
