@@ -17,5 +17,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&layout=pie" />
+  
 </picture>
