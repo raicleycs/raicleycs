@@ -9,7 +9,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dracula)"
   />
   <source
