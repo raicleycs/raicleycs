@@ -19,7 +19,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&show_icons=true&theme=radical" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&layout=pie" />
-    <img src="https://my.spline.design/nexbotrobotcharacterconcept-521a7debe175fac7a0ecb8ebd50456a4"/>
+    <img height=200 align="center" src="https://my.spline.design/nexbotrobotcharacterconcept-521a7debe175fac7a0ecb8ebd50456a4"/>
   <picture>
     <source
       srcset="https://my.spline.design/nexbotrobotcharacterconcept-521a7debe175fac7a0ecb8ebd50456a4"
