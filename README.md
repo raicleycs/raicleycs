@@ -1,4 +1,5 @@
 # Olá! Eu sou o Raicley Contadini Sampaio 👋
+![Snake animation](https://github.com/raicleycs/raicleycs/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Sobre mim
 💻 Docente de Tecnologia da Informação no SENAI e no SENAC<br>
