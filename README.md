@@ -1,56 +1,41 @@
-# Olá! Eu sou o Raicley Contadini Sampaio 👋
-![Snake animation](https://github.com/raicleycs/raicleycs/blob/output/github-contribution-grid-snake.svg)
+# Olá! Eu sou o Raicley 👋
 
-<table>
-  <tr>
-    <td>
+<div>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=raicleycs&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=raicleycs&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+        alt="Github Stats">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+      </div>
+
+<div>
 
 ## 🚀 Sobre mim
 💻 Docente de Tecnologia da Informação no SENAI e no SENAC<br>
 🎓 Mestrando em Tecnologias Emergentes em Educação<br>
 📚 Especialista em Big Data e Ciência de Dados<br>
 🎓 Licenciado em Informática<br>
-🔬 Pesquisador em Educação, Big Data e Inteligência Artificial<br>
-📖 Aluno especial do doutorado em Mídia e Tecnologia e em Ciências da Computação<br>
-
-## 💡 Áreas de Interesse
-- 📊 Ciência de Dados e Big Data
-- 🤖 Inteligência Artificial e Aprendizado de Máquina
-- 🎓 Educação e Tecnologia
-- 🎨 UX/UI Design e Desenvolvimento Web
-- 🖥️ Desenvolvimento de Software
-- 📈 Marketing Digital e Tráfego Pago
-
-
-## 📌 Projetos e Trabalhos
+🔬 Pesquisador em Educação, UX|UI, Big Data e Inteligência Artificial<br>
+</div>
+<tr>
+<div>
+💡 Áreas de Interesse<br>
+- 📊 Ciência de Dados e Big Data<br>
+- 🤖 Inteligência Artificial e Aprendizado de Máquina<br>
+- 🎓 Educação e Tecnologia<br>
+- 🎨 UX/UI Design e Desenvolvimento Web<br>
+- 🖥️ Desenvolvimento de Software<br>
+- 📈 Marketing Digital<br>
+</div>
+  <br>
+<div>
+📌 Projetos e Trabalhos<br>
 🔹 Fundador da **Smart Creative Digital Lab** – Agência de desenvolvimento web, design e marketing digital.<br>
-🔹 Desenvolvimento de chatbots e soluções com API da OpenAI para a **Intellect Institute**.<br>
+🔹 Desenvolvimento de chatbots e soluções com API.<br>
 🔹 Criação de conteúdos educacionais para cursos de TI, marketing digital e servidores.<br>
 🔹 Desenvolvimento de projetos de sites para empresas de seguros, apostas e manutenção aeronáutica.<br>
-
+</div>
+  <br>
 <div>
 <a href="https://github.com/raicleycs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&layout=compact&langs_count=7&theme=dracula"/>
