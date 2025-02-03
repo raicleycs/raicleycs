@@ -21,3 +21,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&layout=pie" />
   
 </picture>
+
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.59/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/4SN1xco7GWRnoO4n/scene.splinecode"></spline-viewer>
