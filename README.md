@@ -1,6 +1,33 @@
 # Olá! Eu sou o Raicley Contadini Sampaio 👋
 ![Snake animation](https://github.com/raicleycs/raicleycs/blob/output/github-contribution-grid-snake.svg)
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=raicleycs&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=raicleycs&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Sobre mim
 💻 Docente de Tecnologia da Informação no SENAI e no SENAC<br>
 🎓 Mestrando em Tecnologias Emergentes em Educação<br>
