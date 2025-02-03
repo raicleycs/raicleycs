@@ -1,12 +1,21 @@
 # Olá! Eu sou o Raicley 👋
 
 <div>
+      <table>
+            <td>
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=raicleycs&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
-      </div>
+                  </td>
+            <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&size_weight=0.5&count_weight=0.5&theme=dark">
+                  </td>
+            <td>
+                  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+            </td>
+            </table>
+</div>
 
 <div>
 
@@ -36,11 +45,6 @@
 🔹 Desenvolvimento de projetos de sites para empresas de seguros, apostas e manutenção aeronáutica.<br>
 </div>
   <br>
-<div>
-<a href="https://github.com/raicleycs">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?raicleycs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raicleysampaio/)
