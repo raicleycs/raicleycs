@@ -1,5 +1,5 @@
 # Olá eu sou o Raicley 👋
-<img src="https://github.com/raicleycs/raicleycs/blob/main/img/teste.gif" >
+
 <table>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=raicleycs&theme=dark&show_icons=true">
@@ -7,6 +7,9 @@
   </td>
   <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&langs_count=8&theme=dark">
+  </td>
+  <td>
+    <img src="https://github.com/raicleycs/raicleycs/blob/main/img/computer-illustration.png">
   </td>
 </table>
 <br>
