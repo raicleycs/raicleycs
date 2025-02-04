@@ -46,7 +46,7 @@
       <a href="https://www.instagram.com/raicley_sampaio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </td>
          <td>
-      <a href="malito=raicleysamp@gmail.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <a href="mailto=raicleysamp@gmail.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </td>
   </table>
         <br><br>
