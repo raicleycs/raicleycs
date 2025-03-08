@@ -17,20 +17,20 @@
 <div>
 🚀 Sobre mim <br><br>
 💻 Docente de Tecnologia da Informação no SENAI e no SENAC<br>
-🎓 Mestrando em Tecnologias Emergentes em Educação<br>
+🎓 Mestre em Tecnologias Emergentes em Educação<br>
 🎓 Licenciado em Informática<br>
 🎓 Graduando em Engenharia de Produção<br>
 🎓 Aluno Especial programa de Doutorado em Ciências da Computação | UNIFESP<br>
 🎓 Aluno Especial programa de Doutorado em Mídia e Tecnologia | UNESP<br>
 📚 Especialista em Big Data e Ciência de Dados<br>
-🔬 Pesquisador em Educação, UX|UI, Big Data e Inteligência Artificial<br>
+🔬 Pesquisador em Educação e Inovação Tecnológica, UX|UI, Big Data, Análise de Dados, Marketing Digital, Gamificação e Inteligência Artificial<br>
 </div>
 <br>
 <div>
 💡 Áreas de Interesse<br><br>
 📊 Ciência de Dados e Big Data<br>
 🤖 Inteligência Artificial e Aprendizado de Máquina<br>
-🎓 Educação e Tecnologia<br>
+🎓 Educação e Inovação Tecnológica<br>
 🎨 UX/UI Design e Desenvolvimento Web<br>
 🖥️ Desenvolvimento de Software<br>
 📈 Marketing Digital<br>
