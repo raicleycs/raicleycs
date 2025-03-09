@@ -141,6 +141,13 @@
 <td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
+</tr> 
+</table>
+
+### **Visitas**
+<table>
+<tr>
+<p><img src="https://profile-counter.glitch.me/raicleycs/count.svg" alt="Número de visitantes no perfil"/></p>
 </tr>
 </table>
 </div>
