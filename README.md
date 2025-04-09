@@ -8,7 +8,7 @@
   </td>
     <td><img src="https://github.com/raicleycs/raicleycs/blob/main/img/computer-illustration.png"></td>
    <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&langs_count=10&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raicleycs&langs_count=5&theme=dark">
   </td
   </tr>
 </table>
