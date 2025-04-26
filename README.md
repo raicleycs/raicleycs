@@ -72,8 +72,6 @@
     <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    </td>
     <td><img src="https://img.shields.io/badge/PWA-0276C1?style=for-the-badge&logo=pwa&logoColor=white">   
     </td>
     <td><img src="https://img.shields.io/badge/Preact-5B2C6F?style=for-the-badge&logo=preact&logoColor=white">
