@@ -122,6 +122,7 @@
 ### 🤖 **Inteligência Artificial & Machine Learning**
 <table>
 <tr>
+<td><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
@@ -133,6 +134,9 @@
 ### ☁️ **DevOps & Cloud**
 <table>
 <tr>
+<td><img src="	https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></td>
 <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
