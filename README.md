@@ -17,7 +17,7 @@
 <div>
   
 ## 🚀 Sobre mim <br><br>
-💻 Docente de Tecnologia da Informação no SENAI e SENA São PauloC<br>
+💻 Docente de Tecnologia da Informação no SENAI e SENA São Paulo<br>
 🎓 Mestre em Tecnologias Emergentes em Educação<br>
 🎓 Licenciado em Informática<br>
 🎓 Graduando em Engenharia de Produção<br>
